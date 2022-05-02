@@ -3,7 +3,7 @@ dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
 // --- Season of the Splicer ---
 
-// Hung Jury SR4
+// Hung Jury SR7
 dimwishlist:item=681067419&perks=247725512,3824105627
 
 // Ignition Code
